@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý Pháp luật Tàu cá Việt Nam – AI",
+  "description": "Hệ thống AI tra cứu pháp luật thủy sản, kiểm tra hiệu lực văn bản, hướng dẫn thủ tục hành chính tàu cá và rèn luyện xử lý tình huống thực tế có chấm điểm theo quy định Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
